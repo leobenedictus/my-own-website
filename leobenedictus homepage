@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=1599;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=BsQ6byDz" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=cRqOKCOw" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.leobenedictus.co.uk:80/","20190913131425","https://web.archive.org/","web","/_static/",
+	      "1568380465");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=NHuXCfBH" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Leo Benedictus</title>
+  <meta name="description" content="">
+
+  <link rel="author" href="humans.txt"/>
+
+  <link rel="apple-touch-icon-precomposed" href="/web/20190913131425im_/http://www.leobenedictus.co.uk/images/favicon-152.png">
+  <meta name="msapplication-TileColor" content="#0096FF">
+  <meta name="msapplication-TileImage" content="/images/tileimage-144.png">
+  <meta name="application-name" content="Leo Benedictus">
+
+  <link rel="stylesheet" href="//web.archive.org/web/20190913131425cs_/http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <style>
+    body { font-family: Georgia; font-size: 180%; padding-bottom: 50px; }
+    blockquote { border-left: 0; }
+    cite p { display: inline; }
+  </style>
+</head>
+
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:110px;padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share">
+          <a href="/web/20190913131425/http://web.archive.org/screenshot/http://www.leobenedictus.co.uk/"
+             id="wm-screenshot"
+             title="screenshot">
+            <span class="wm-icon-screen-shot"></span>
+          </a>
+	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20190913131425/http://www.leobenedictus.co.uk:80/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20190913131425/http://www.leobenedictus.co.uk:80/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.leobenedictus.co.uk/" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20190913131425" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20190811233201/http://www.leobenedictus.co.uk:80/" title="11 Aug 2019"><strong>Aug</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 13:14:25 Sep 13, 2019">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20190811233201/http://www.leobenedictus.co.uk:80/" title="23:32:01 Aug 11, 2019"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 13:14:25 Sep 13, 2019">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180831045339/http://www.leobenedictus.co.uk:80/" title="31 Aug 2018"><strong>2018</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 13:14:25 Sep 13, 2019">2019</td>
+		  <td class="f" nowrap="nowrap">2020</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20190913131425*/http://www.leobenedictus.co.uk/" title="See a list of every capture for this URL">70 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">27 Feb 2011 - 13 Sep 2019</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="625" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;transpiled=0&amp;referer=https%3A//web.archive.org/web/20190913131425/http%3A//www.leobenedictus.co.uk/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><script type="text/javascript">
+__wm.bt(625,27,25,2,"web","http://www.leobenedictus.co.uk/","20190913131425",1996,"/_static/",["/_static/css/banner-styles.css?v=NHuXCfBH","/_static/css/iconochive.css?v=qtvMKcIJ"]);
+  __wm.rw(1);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<nav class="navbar navbar-default navbar-fixed-bottom" style="margin-top:1em; border-radius:0">
+  <div class="container">
+    <div class="">
+      <p class="navbar-text text-center" style="float: none;">
+        <a class="navbar-link" href="/web/20190913131425/http://www.leobenedictus.co.uk/">Consent / Read Me</a>&nbsp;&nbsp;&nbsp;
+        <a class="navbar-link" href="/web/20190913131425/http://www.leobenedictus.co.uk/the-afterparty">The&nbsp;Afterparty</a>&nbsp;&nbsp;&nbsp;
+        <a class="navbar-link" href="/web/20190913131425/http://www.leobenedictus.co.uk/opinions">Opinions</a>&nbsp;&nbsp;&nbsp;
+        <a class="navbar-link" href="/web/20190913131425/http://www.leobenedictus.co.uk/news-events">News&nbsp;&amp;&nbsp;Events</a>&nbsp;&nbsp;&nbsp;
+        <a class="navbar-link" href="/web/20190913131425/http://www.leobenedictus.co.uk/about">Leo&nbsp;Benedictus</a>
+      </p>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="bigbook">
+  <div class="container">
+    <div class="row" style="margin-top:1em;">
+      <div class="col-xs-6 col-sm-offset-2 col-sm-4">
+        <p>
+          <a href="https://web.archive.org/web/20190913131425/https://www.amazon.co.uk/Consent-Read-Me-Leo-Benedictus/dp/0571335888">
+            <img src="/web/20190913131425im_/http://www.leobenedictus.co.uk/images/consent-cover.jpg" class="img-responsive" alt="Consent" style="box-shadow: 0 0 30px rgba(0,0,0,0.1);"/>
+          </a>
+          <br/>
+        </p>
+      </div>
+
+      <div class="col-xs-6 col-sm-4">
+        <p>
+          <a href="https://web.archive.org/web/20190913131425/https://www.amazon.com/Read-Me-Novel-Leo-Benedictus/dp/1538711478">
+            <img src="/web/20190913131425im_/http://www.leobenedictus.co.uk/images/readme-cover.jpg" class="img-responsive" alt="Read Me" style="box-shadow: 0 0 30px rgba(0,0,0,0.3);"/>
+          </a>
+          <br/>
+        </p>
+      </div>
+
+      <div class="col-xs-12 col-sm-offset-1 col-sm-10">
+		    <div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Ingeniously nasty&#8230; reminiscent of Vladimir Nabokov and Patricia Highsmith&#8230; Expect to be provoked by a teasing metafictional game.</p>
+      <footer>
+        John Dugdale,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.thetimes.co.uk/magazine/culture/need-to-know-karen-cleveland-anatomy-scandal-sarah-vaughan-the-wife-alafair-burke-consent-leo-benedictus-thrillers-review-p602w8ktl">The Sunday Times</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Creepily thought-provoking&#8230; [The narrator’s] manipulations are so cruel, his acts of violence so vile, that it feels profoundly disconcerting to have ever been seduced by him.</p>
+      
+      <footer>
+        Melissa Broder,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.nytimes.com/2018/08/29/books/review/read-me-leo-benedictus.html?smid=tw-nytbooks&amp;smtyp=cur">The New York Times</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>At times almost unreadably horrible&#8230; Consent is thought-provoking as well as shocking&#8230; A compulsive dark comedy that entertains and unnerves in equal measure. ★★★★</p>
+      <footer>
+        Anthony Cummins,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.metro.news/metro-book-chat-stalkers-tale-of-gender-relations/916653/">Metro</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>A word of warning: do not pick up this novella late at night. Not if you’d like to sleep any time soon&#8230; Darkly addictive.</p>
+      
+      <footer>
+        Hephzibah Anderson,
+        <cite>
+          <p>The Mail on Sunday</p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Queasily compelling&#8230; Perhaps most unsettling is the narrator’s voice&#8230; There is no denying the ingenuity with which Benedictus constructs his tale.</p>
+      <footer>
+        Barry Forshaw,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.ft.com/content/a922c8a4-2878-11e8-9274-2b13fccdc744">The Financial Times</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>This is a novel that plays with the conventions of the form&#8230; great subtlety and wit&#8230; unusual and enormously compelling.</p>
+      
+      <footer>
+        Alex Preston,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.theguardian.com/books/2018/jan/21/consent-by-leo-benedictus-fear-by-dirk-kurbjuweit-review">The Observer</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Another clever, cutting riff on the book-within-a book&#8230; this strangely congenial thriller-cum-treatise ends on a note of provocative ambiguity.</p>
+      <footer>
+        Catherine Taylor,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.theguardian.com/books/2018/jan/25/consent-leo-benedictus-review?CMP=twt_books_b-gdnbooks">The Guardian</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>A fiendishly clever book, though not for the soft-hearted&#8230; You’ll find yourself turning pages in the most disturbing kind of grip.</p>
+      
+      <footer>
+        Cameron Woodhead,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.smh.com.au/entertainment/books/consent-review-leo-benedictus-psychological-thriller-grips-in-a-disturbing-way-20180226-h0wn7t.html?utm_medium=rss&amp;utm_source=rss_feed">Sydney Morning Herald</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>By turns whimsical and bone-chillingly explicit, Consent is a gripping reimagining of one of the crime genre’s most tired tropes.</p>
+      <footer>
+        Declan Burke,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.irishtimes.com/culture/books/crime-fiction-highlights-the-woman-in-the-window-genuine-fraud-the-long-silence-one-good-reason-consent-1.3398746">The Irish Times</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Not a particularly original contribution to an over-saturated genre</p>
+      
+      <footer>
+        Alice Wadsworth,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.the-tls.co.uk/articles/private/observation-benedictus/">The Times Literary Supplement</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Claustrophobic intensity&#8230; makes it a memorable and rewarding, if far from comfortable, experience.</p>
+      <footer>
+        Jake Kerridge,
+        <cite>
+          <p>The Sunday Express</p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>We’ll warn you now: Benedictus’s latest book - a psychopathic stalker’s journal - is pitch black. The stuff of nightmares.</p>
+      
+      <footer>
+        Anon,
+        <cite>
+          <p>Shortlist</p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Consent is a carefully crafted and completely chilling novel where all the possibilities are open – until they suddenly snap closed. <em>Book of the Week</em></p>
+      <footer>
+        David Herkt,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.stuff.co.nz/life-style/life/102779245/book-of-the-week-april-7-2018">Stuff</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Part-crime, part-thriller, part-horror novel from the much-praised author of The Afterparty&#8230; This is a disturbing book.</p>
+      
+      <footer>
+        Sebastian Shakespeare,
+        <cite>
+          <p>Tatler</p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>If you want to be nearly scared to death, this is the book for you.</p>
+      <footer>
+        Anon,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.whichbook.net/book.aspx?id=12172">Whichbook.net</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Consent is a pacy and chilling thriller about our voyeuristic obsession with other people.</p>
+      
+      <footer>
+        Mark,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/http://wordsshortlist.blogspot.co.uk/2018/05/consent-by-leo-benedictus.html">The Word’s Shortlist</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>His sparse, clean style&#8230; grips the reader in its claws&#8230; For those who enjoy clever and unsettling thrillers, this one is unmissable.</p>
+      <footer>
+        Kelly Pells,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/http://www.thisislocallondon.co.uk/news/16052157.Clever_and_unsettling_thriller_from_Guardian_journalist/">This is Local London</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Such a great read and the product of a highly entertaining and disturbingly dark mind. If I was a friend of Leo Benedictus, I’d be reconsidering my options.</p>
+      
+      <footer>
+        Stephen Mangan
+        <cite>
+          
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Beautiful writing and a modest, pensive protagonist&#8230;  A brilliant and goosebumpy read!</p>
+      <footer>
+        Susan Crawford
+        <cite>
+          
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>A darkly elegant thriller - I was enthralled.</p>
+      
+      <footer>
+        Renée Knight
+        <cite>
+          
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>A fascinating, disturbing and original thriller that erases the boundaries of the genre and draws challenging new ones</p>
+      <footer>
+        Sophie Hannah
+        <cite>
+          
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Read Me offers a salacious, disturbing, and increasingly focused look into the mind of a stalker.</p>
+      
+      <footer>
+        Michael Ruzicka,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.booklistonline.com/Read-Me-Leo-Benedictus/pid=9497268">Booklist</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Absolutely superb&#8230; a truly dark and deliciously twisted thriller&#8230;  Benedictus is completely without fear&#8230; I was mesmerised.</p>
+      <footer>
+        Raven,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://ravencrimereads.wordpress.com/2018/03/15/theres-always-someone-watching-leo-benedictus-consent-james-lasdun-the-fall-guy/">Raven Crime Reads</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Fantastic&#8230; really got into my head&#8230; Engaging but unnerving, creepy but intriguing. I was gripped from start to finish! There are so many elements of this book that I want to praise.</p>
+      
+      <footer>
+        Ronnie Turner,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://ronnieturner.wordpress.com/2018/02/21/consent-by-leo-benedictus-bookreview-consent/">Blog</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>It is a short novel, but one which you won’t forget in a hurry&#8230; I was appalled and approving in equal measure&#8230; Whilst it is certainly not for the faint hearted, it is a compelling and clever read.</p>
+      <footer>
+        Anon,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/http://honestbookaholic.com/review-of-consent-by-leo-benedictus/">Honestbookaholic.com</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>It’s dark as pitch on a black night in the height of winter, and at times it’s a little neat, but for all that it’s an almighty page turner that will have you in its grip until the final page.</p>
+      
+      <footer>
+        Anon,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://bookmunch.wordpress.com/2018/02/06/dark-as-pitch-on-a-black-night-in-the-height-of-winter-consent-by-leo-benedictus/">Bookmunch</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Leo Benedictus gradually pulls the reader into his character’s nightmare mind&#8230;  a clever and satisfying second novel.</p>
+      <footer>
+        Anne Goodwin,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/http://annegoodwin.weebly.com/annecdotal/people-studies-sight-consent">Annethology</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>Leo Benedictus is prepared to take risks&#8230; This is a stylish psycho thriller&#8230; And it ends with a bang!</p>
+      
+      <footer>
+        Toria Forsyth-Moser,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/http://thecrimewarp.blogspot.co.uk/2018/02/consent-by-leo-benedictus-book-review.html">The Crime Warp</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>A literary stalker novel with a wicked difference&#8230; its tale of lies, love and deceit unfolds in snake-like manner&#8230; Compelling and unsettling both.</p>
+      <footer>
+        Maxim Jakobowski,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/http://www.crimetime.co.uk/max-maxim-jakubowski-new-crime-2/">Crime Time</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>It is intelligently written and the idea is horrible&#8230; It was a decent read, and it’s disturbing, graphic in parts, but I was left scratching my head.</p>
+      
+      <footer>
+        Lolly K Dandeneau,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://bookstalkerblog.wordpress.com/2018/06/06/read-me-a-novel-by-leo-benedictus/">BookStalkerBlog</a></p>
+        </cite>
+      </footer>
+	
+    </blockquote>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      <p>A queasily compelling novel that demands shuddering admiration.</p>
+      <footer>
+        The Listener,
+        <cite>
+          <p><a href="https://web.archive.org/web/20190913131425/https://www.noted.co.nz/culture/books/100-best-books-of-2018-listener/">Best Books of 2018</a></p>
+        </cite>
+      </footer>
+    </blockquote>
+  </div>
+
+  <div class="col-xs-12 col-sm-6">
+    <blockquote>
+      
+      
+    </blockquote>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21774493-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20190913131425/https://ssl' : 'https://web.archive.org/web/20190913131425/http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 13:14:25 Sep 13, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:52:32 Oct 29, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 839.371
+  esindex: 0.011
+  exclusion.robots: 0.269
+  RedisCDXSource: 1.825
+  CDXLines.iter: 18.709 (3)
+  PetaboxLoader3.datanode: 158.811 (4)
+  PetaboxLoader3.resolve: 1304.096 (2)
+  exclusion.robots.policy: 0.257
+  LoadShardBlock: 813.999 (3)
+  load_resource: 744.457
+-->
